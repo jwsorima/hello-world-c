@@ -6,7 +6,7 @@ int main() {
 		printf("ayo\n");
 	}
 
-  printf("Press ENTER key to Continue\n");  
+  printf("Press ENTER key to Continue!\n");  
   getchar(); 
 
 	return 0;
